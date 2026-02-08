@@ -11,9 +11,9 @@ The project uses the publicly available Heart Failure Clinical Records Dataset, 
 ## 👥 Project Context
 
 This work was completed as part of a group project, where I contributed primarily to:
-Data preprocessing and exploratory analysis
-Handling class imbalance using SMOTE
-Model development and evaluation pipeline
-Performance reporting and visualization
+Data preprocessing and exploratory analysis,
+Handling class imbalance using SMOTE,
+Model development and evaluation pipeline,
+Performance reporting and visualization.
 
 This repository contains my cleaned and extended implementation of the project.
