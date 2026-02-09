@@ -2,7 +2,7 @@
 
 This project uses the Heart Failure Clinical Records dataset, a real-world clinical dataset containing patient health attributes associated with heart failure outcomes.
 
-## The dataset includes demographic information, physiological measurements, and comorbidity indicators such as:
+The dataset includes demographic information, physiological measurements, and comorbidity indicators such as:
 
 Age and sex
 
